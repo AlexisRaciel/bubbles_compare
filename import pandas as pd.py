@@ -4,7 +4,7 @@ import xmltodict
 
 class Table:
     
-    # Constructor Method
+    # Constructor Methodxcs
     def __init__(self, path_parts, path_bubbles):
         self.path_bubblesn = path_bubbles
         self.path_partsn = path_parts
